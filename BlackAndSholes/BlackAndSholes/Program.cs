@@ -12,9 +12,10 @@ namespace BlackAndSholes
             int pnl;
             int x = 10;
             int y = 30;
+            int z = 13;
             pnl = x - y;
             
-            Console.WriteLine(pnl.ToString());
+            Console.WriteLine(pnl);
         }
     }
 }
