@@ -16,6 +16,7 @@ namespace BlackAndSholes
             pnl = x - y;
             
             Console.WriteLine(pnl);
+            Console.WriteLine("Hello the world!");
         }
     }
 }
